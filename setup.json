@@ -1,0 +1,63 @@
+{
+	"LEADERBOARD": [{
+			"PLACE": "1",
+			"NAME": "Green",
+			"SCORE": "10000"
+		},
+		{
+			"PLACE": "2",
+			"NAME": "Green",
+			"SCORE": "8000"
+		},
+		{
+			"PLACE": "3",
+			"NAME": "Green",
+			"SCORE": "5000"
+		},
+		{
+			"PLACE": "4",
+			"NAME": "Green",
+			"SCORE": "1000"
+		},
+		{
+			"PLACE": "5",
+			"NAME": "~~~~",
+			"SCORE": "####"
+		},
+		{
+			"PLACE": "6",
+			"NAME": "~~~~",
+			"SCORE": "####"
+		},
+		{
+			"PLACE": "7",
+			"NAME": "~~~~",
+			"SCORE": "####"
+		},
+		{
+			"PLACE": "8",
+			"NAME": "~~~~",
+			"SCORE": "####"
+		},
+		{
+			"PLACE": "9",
+			"NAME": "~~~~",
+			"SCORE": "####"
+		},
+		{
+			"PLACE": "10",
+			"NAME": "~~~~",
+			"SCORE": "####"
+		}
+
+	],
+
+	"SETTINGS": [{
+		"SFX": 25,
+		"MUSIC": 15,
+		"MUTESFX": 1,
+		"MUTEMUS": 1,
+		"DIFFICULTY": 1
+	}]
+
+}
